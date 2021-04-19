@@ -1,0 +1,41 @@
+Start write!!! 
+Accuracy on test set: (2478/5000)49 % 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Start write!!! 
+Accuracy on test set: (4629/5000)92 % 
+Start write!!! 
+Accuracy on test set: (4660/5000)93 % 
+Accuracy on test set: (4666/5000)93 % 
+Accuracy on test set: (4674/5000)93 % 
+Accuracy on test set: (4703/5000)94 % 
+Accuracy on test set: (4663/5000)93 % 
+Start write!!! 
+Accuracy on test set: (4675/5000)93 % 
+Accuracy on test set: (4682/5000)93 % 
+Accuracy on test set: (4664/5000)93 % 
+Accuracy on test set: (4649/5000)92 % 
+Accuracy on test set: (4674/5000)93 % 
+Start write!!! 
+Accuracy on test set: (4676/5000)93 % 
+Accuracy on test set: (4689/5000)93 % 
+Accuracy on test set: (4683/5000)93 % 
+Accuracy on test set: (4682/5000)93 % 
+Accuracy on test set: (4708/5000)94 % 
+Accuracy on test set: (4703/5000)94 % 
+Accuracy on test set: (4714/5000)94 % 
+Accuracy on test set: (4729/5000)94 % 
+Accuracy on test set: (4729/5000)94 % 
+Accuracy on test set: (4721/5000)94 % 
